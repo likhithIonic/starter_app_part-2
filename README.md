@@ -58,9 +58,7 @@ Once, you build starts, you should be able to see the logs from the build instan
 
 Your Starter App is built and you can download the .apk file file to load it onto your device/simulator of choice to see how it works.
 
-<p align="center">
-  <img src="images/img1_10.png">
-</p>
+![Appflow](images/img1_10.png)
 
 
 
