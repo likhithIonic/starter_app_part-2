@@ -3,9 +3,9 @@
 This part -2 of the exploring Appflow exercise consists of the following topics
 
 1. Building for native 101(android debug)
-  1. Build starter app
-  2. Package for native
-  3. Trigger a Native Binary using Appflow
+    1. Build starter app
+    2. Package for native
+    3. Trigger a Native Binary using Appflow
   
 ## Building for native 101
 
