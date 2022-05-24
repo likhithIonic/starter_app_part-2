@@ -1,4 +1,4 @@
-# Exploring Appflow Exercise 2
+# Exploring Appflow Exercise part 2
 
 This part -2 of the exploring Appflow exercise consists of the following topics
 
